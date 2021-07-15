@@ -24,8 +24,6 @@ for line in f:
     blacklist.append(line.replace('\n', ''))
 f.close
 
-#print(FS_blacklist)
-#print(author_whitelist)
 
 
 print("==============================++--***--++==============================")
@@ -33,7 +31,7 @@ print("                       Altonos comment finder   ")
 print("")
 print("                       https://peakd.com/@altonos")
 print("=======================================================================")
-#print(op)
+
 
 
 
